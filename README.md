@@ -75,6 +75,8 @@ My-Portfolio/
 * Practical understanding of portfolio building
 * Improved presentation of data projects
 
+---
+
 ## 👤 Author
 
 **Nishi Kumari**
