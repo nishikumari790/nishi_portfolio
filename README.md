@@ -1,5 +1,3 @@
----
-
 ## 📌 Project Description
 
 This project is a fully responsive and professional **Data Analyst Portfolio Website** created using **HTML, CSS, and JavaScript**. The purpose of this portfolio is to showcase my skills, projects, certifications, and contact information in a structured and visually appealing way.
