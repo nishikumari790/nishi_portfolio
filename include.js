@@ -3,7 +3,7 @@ async function includeHTML(elementId, filePath) {
     try {
         const response = await fetch(filePath);
         const html = await response.text();
-        document.getElementById(elementId).innerHTML = html;
+        document.getElementById(elementId).innerHTML = html; 
         
         // Set active navigation after including header
         if (elementId === 'header') {
