@@ -1,7 +1,3 @@
-
-
-**Personal Portfolio Website for Data Analyst – Nishi Kumari**
-
 ---
 
 ## 📌 Project Description
