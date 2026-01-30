@@ -485,10 +485,9 @@ body {
     font-size: 0.95rem;
     flex-grow: 1;
     overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
+    max-height: 9.6em; /* 6 lines × 1.6 line-height */
 }
+
 
 .project-tech {
     display: flex;
@@ -977,21 +976,17 @@ html {
     font-size: 1.2rem;
 }
 
-.skill-items {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-}
-
 .skill-item {
     background: #667eea;
-    color: white;
+    color: #ffffff;
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.9rem;
     font-weight: 500;
-    transition: background 0.3s ease;
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
 }
+
 
 .skill-item:hover {
     background: #5a6fd8;
