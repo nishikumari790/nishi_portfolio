@@ -1,8 +1,4 @@
-# my_portfolio
 
-# 📊 Data Analyst Portfolio Website
-
-## 👩‍💻 Project Title
 
 **Personal Portfolio Website for Data Analyst – Nishi Kumari**
 
@@ -46,7 +42,6 @@ My-Portfolio/
  ├── index.html
  ├── about.html
  ├── projects.html
- ├── certifications.html
  ├── contact.html
  ├── styles.css
  ├── script.js
@@ -63,7 +58,6 @@ My-Portfolio/
 * SQL
 * MS Excel
 * Power BI
-* Tableau
 * Data Cleaning
 * Data Visualization
 * Statistical Analysis
@@ -87,25 +81,8 @@ My-Portfolio/
 * Practical understanding of portfolio building
 * Improved presentation of data projects
 
----
-
-## 🌐 Live Preview
-
-GitHub Repository: *(Add your GitHub link here)*
-
----
-
 ## 👤 Author
 
 **Nishi Kumari**
 Data Analyst | Python | SQL | Power BI
 
----
-
-## 📄 License
-
-This project is for educational and portfolio use.
-
----
-
-⭐ If you like this project, feel free to give a star on GitHub!
